@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jairo
 - 👀 I’m interested in Programming in general
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently playing with React && React Native
 - 💞️ I’m looking to collaborate on Open Source Projects
 
 

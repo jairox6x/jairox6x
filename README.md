@@ -2,8 +2,8 @@
 - 👀 I’m interested in Programming in general
 - 🌱 I’m currently playing with React && React Native
 - 💞️ I’m looking to collaborate on Open Source Projects
-<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/c2a4be42-ed79-4dfd-94cf-49d2ce81f37a" />
-
+- 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,git,linux,php,laravel)](https://skillicons.dev)
 
 <!---
 jairox6x/jairox6x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
